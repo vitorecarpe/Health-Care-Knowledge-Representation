@@ -8,3 +8,9 @@
 [Francisco Oliveira](https://github.com/Tibblue)
 
 [Raul Vilas Boas](https://github.com/MrBoas)
+
+
+# Classification
+
+* Part 1 - 16.0
+* Part 2 - 14.0
